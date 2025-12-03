@@ -225,52 +225,52 @@
             font-family: 'Consolas', 'Monaco', monospace !important;
         }
         /* 预处理/宏 */
-        pre.sh_sourceCode .sh_preproc {
+        html.dark-mode pre.sh_sourceCode .sh_preproc {
             color: #d19a66; /* 橙色 */
             font-weight: bold;
         }
         /* 字符串 */
-        pre.sh_sourceCode .sh_string {
+        html.dark-mode pre.sh_sourceCode .sh_string {
             color: #98c379; /* 绿色 */
             font-family: monospace;
         }
         /* 关键字 */
-        pre.sh_sourceCode .sh_keyword {
+        html.dark-mode pre.sh_sourceCode .sh_keyword {
             color: #c678dd; /* 紫色 */
             font-weight: bold;
         }
         /* 符号/运算符 */
-        pre.sh_sourceCode .sh_symbol {
+        html.dark-mode pre.sh_sourceCode .sh_symbol {
             color: #56b6c2; /* 浅蓝 */
         }
         /* 类名 */
-        pre.sh_sourceCode .sh_classname {
+        html.dark-mode pre.sh_sourceCode .sh_classname {
             color: #61afef; /* 蓝色 */
         }
         /* 括号 */
-        pre.sh_sourceCode .sh_cbracket {
+        html.dark-mode pre.sh_sourceCode .sh_cbracket {
             color: #abb2bf; /* 默认灰蓝 */
         }
         /* 用户类型 */
-        pre.sh_sourceCode .sh_usertype {
+        html.dark-mode pre.sh_sourceCode .sh_usertype {
             color: #61afef; /* 蓝色 */
         }
         /* 函数名 */
-        pre.sh_sourceCode .sh_function {
+        html.dark-mode pre.sh_sourceCode .sh_function {
             color: #61afef; /* 蓝色 */
             font-weight: bold;
         }
         /* 类型 */
-        pre.sh_sourceCode .sh_type {
+        html.dark-mode pre.sh_sourceCode .sh_type {
             color: #d19a66; /* 橙色 */
         }
         /* 注释 */
-        pre.sh_sourceCode .sh_comment {
+        html.dark-mode pre.sh_sourceCode .sh_comment {
             color: #5c6370; /* 灰色 */
             font-style: italic;
         }
         /* 数字 */
-        pre.sh_sourceCode .sh_number {
+        html.dark-mode pre.sh_sourceCode .sh_number {
             color: #d19a66; /* 橙色 */
         }
 
